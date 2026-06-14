@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://portfoliobyhardik.netlify.app/](https://portfoliobyhardik.netlify.app/)
+- 👨‍💻 All of my projects are available at [(https://www.hardikk.site/)}
 
 - 💬 Ask me about **Javascript,css,html**
 
